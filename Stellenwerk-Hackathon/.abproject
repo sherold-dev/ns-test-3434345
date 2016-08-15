@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Stellenwerk-Hackathon",
+  "ProjectGuid": "96c06583-e764-4043-819e-7bb9afe7c5a7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.StellenwerkHackathon",
+  "DisplayName": "Stellenwerk-Hackathon",
+  "Author": "",
+  "Description": "Stellenwerk-Hackathon",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.1.0",
+  "Framework": "NativeScript"
+}
