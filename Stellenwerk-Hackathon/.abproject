@@ -2,9 +2,9 @@
   "ProjectName": "Stellenwerk-Hackathon",
   "ProjectGuid": "96c06583-e764-4043-819e-7bb9afe7c5a7",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.StellenwerkHackathon",
+  "AppIdentifier": "com.avonis.StellenwerkHackathon",
   "DisplayName": "Stellenwerk-Hackathon",
-  "Author": "",
+  "Author": "Stephan Herold",
   "Description": "Stellenwerk-Hackathon",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
@@ -12,7 +12,10 @@
     "1",
     "2"
   ],
-  "iOSBackgroundMode": [],
+  "iOSBackgroundMode": [
+    "location",
+    "remote-notification"
+  ],
   "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
   "AndroidPermissions": [
     "android.permission.INTERNET"
